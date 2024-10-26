@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "gsap": "^3.12.5"
+  }
+}
